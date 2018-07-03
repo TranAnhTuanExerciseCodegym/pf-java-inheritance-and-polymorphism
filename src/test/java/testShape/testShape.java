@@ -1,6 +1,6 @@
-package shape;
+package testShape;
 
-import geometricObjects.Shape;
+import shape.Shape;
 
 public class testShape {
     public static void main(String[] args) {

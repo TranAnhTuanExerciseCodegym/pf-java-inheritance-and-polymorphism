@@ -1,4 +1,4 @@
-package geometricObjects;
+package shape;
 
 public class Shape {
     String color = "green";
@@ -30,7 +30,7 @@ public class Shape {
 
     @Override
     public String toString() {
-        String string = "A Shape with color of " +
+        String string = "A shape with color of " +
                 color + '\t' + ", and = ";
         if (isFilled) {
             string += "isFilled";

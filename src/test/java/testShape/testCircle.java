@@ -1,7 +1,6 @@
-package shape;
+package testShape;
 
-import geometricObjects.Circle;
-import java.util.Scanner;
+import shape.Circle;
 
 public class testCircle {
     public static void main(String[] args) {
